@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Sipora1\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Sipora1\app\src\main\res"><file name="card_hover_anim" path="D:\Sipora1\app\src\main\res\animator\card_hover_anim.xml" qualifiers="" type="animator"/><file name="nav_item_color" path="D:\Sipora1\app\src\main\res\color\nav_item_color.xml" qualifiers="" type="color"/><file name="bg_blue_gradient" path="D:\Sipora1\app\src\main\res\drawable\bg_blue_gradient.xml" qualifiers="" type="drawable"/><file name="bg_bottom_container" path="D:\Sipora1\app\src\main\res\drawable\bg_bottom_container.xml" qualifiers="" type="drawable"/><file name="bg_button_google" path="D:\Sipora1\app\src\main\res\drawable\bg_button_google.xml" qualifiers="" type="drawable"/><file name="bg_button_lightgray" path="D:\Sipora1\app\src\main\res\drawable\bg_button_lightgray.xml" qualifiers="" type="drawable"/><file name="bg_button_rounded" path="D:\Sipora1\app\src\main\res\drawable\bg_button_rounded.xml" qualifiers="" type="drawable"/><file name="bg_button_rounded_white" path="D:\Sipora1\app\src\main\res\drawable\bg_button_rounded_white.xml" qualifiers="" type="drawable"/><file name="bg_card" path="D:\Sipora1\app\src\main\res\drawable\bg_card.xml" qualifiers="" type="drawable"/><file name="bg_card_filter" path="D:\Sipora1\app\src\main\res\drawable\bg_card_filter.xml" qualifiers="" type="drawable"/><file name="bg_card_hover" path="D:\Sipora1\app\src\main\res\drawable\bg_card_hover.xml" qualifiers="" type="drawable"/><file name="bg_card_red" path="D:\Sipora1\app\src\main\res\drawable\bg_card_red.xml" qualifiers="" type="drawable"/><file name="bg_card_white" path="D:\Sipora1\app\src\main\res\drawable\bg_card_white.xml" qualifiers="" type="drawable"/><file name="bg_chip" path="D:\Sipora1\app\src\main\res\drawable\bg_chip.xml" qualifiers="" type="drawable"/><file name="bg_chip_gray" path="D:\Sipora1\app\src\main\res\drawable\bg_chip_gray.xml" qualifiers="" type="drawable"/><file name="bg_chip_selected" path="D:\Sipora1\app\src\main\res\drawable\bg_chip_selected.xml" qualifiers="" type="drawable"/><file name="bg_chip_unselected" path="D:\Sipora1\app\src\main\res\drawable\bg_chip_unselected.xml" qualifiers="" type="drawable"/><file name="bg_circle_blue" path="D:\Sipora1\app\src\main\res\drawable\bg_circle_blue.xml" qualifiers="" type="drawable"/><file name="bg_dashed_box" path="D:\Sipora1\app\src\main\res\drawable\bg_dashed_box.xml" qualifiers="" type="drawable"/><file name="bg_dialog" path="D:\Sipora1\app\src\main\res\drawable\bg_dialog.xml" qualifiers="" type="drawable"/><file name="bg_dialog_rounded" path="D:\Sipora1\app\src\main\res\drawable\bg_dialog_rounded.xml" qualifiers="" type="drawable"/><file name="bg_edittext" path="D:\Sipora1\app\src\main\res\drawable\bg_edittext.xml" qualifiers="" type="drawable"/><file name="bg_file_info" path="D:\Sipora1\app\src\main\res\drawable\bg_file_info.xml" qualifiers="" type="drawable"/><file name="bg_file_type" path="D:\Sipora1\app\src\main\res\drawable\bg_file_type.xml" qualifiers="" type="drawable"/><file name="bg_filter_button" path="D:\Sipora1\app\src\main\res\drawable\bg_filter_button.xml" qualifiers="" type="drawable"/><file name="bg_filter_button_gray" path="D:\Sipora1\app\src\main\res\drawable\bg_filter_button_gray.xml" qualifiers="" type="drawable"/><file name="bg_gradient" path="D:\Sipora1\app\src\main\res\drawable\bg_gradient.xml" qualifiers="" type="drawable"/><file name="bg_green_chip" path="D:\Sipora1\app\src\main\res\drawable\bg_green_chip.xml" qualifiers="" type="drawable"/><file name="bg_green_label" path="D:\Sipora1\app\src\main\res\drawable\bg_green_label.xml" qualifiers="" type="drawable"/><file name="bg_header" path="D:\Sipora1\app\src\main\res\drawable\bg_header.xml" qualifiers="" type="drawable"/><file name="bg_icon_circle" path="D:\Sipora1\app\src\main\res\drawable\bg_icon_circle.xml" qualifiers="" type="drawable"/><file name="bg_input_field" path="D:\Sipora1\app\src\main\res\drawable\bg_input_field.xml" qualifiers="" type="drawable"/><file name="bg_red_label" path="D:\Sipora1\app\src\main\res\drawable\bg_red_label.xml" qualifiers="" type="drawable"/><file name="bg_rounded_white" path="D:\Sipora1\app\src\main\res\drawable\bg_rounded_white.xml" qualifiers="" type="drawable"/><file name="bg_spinner" path="D:\Sipora1\app\src\main\res\drawable\bg_spinner.xml" qualifiers="" type="drawable"/><file name="bg_spinner_dropdown" path="D:\Sipora1\app\src\main\res\drawable\bg_spinner_dropdown.xml" qualifiers="" type="drawable"/><file name="bg_status_green" path="D:\Sipora1\app\src\main\res\drawable\bg_status_green.xml" qualifiers="" type="drawable"/><file name="bg_status_publikasi" path="D:\Sipora1\app\src\main\res\drawable\bg_status_publikasi.xml" qualifiers="" type="drawable"/><file name="bg_status_red" path="D:\Sipora1\app\src\main\res\drawable\bg_status_red.xml" qualifiers="" type="drawable"/><file name="bg_status_yellow" path="D:\Sipora1\app\src\main\res\drawable\bg_status_yellow.xml" qualifiers="" type="drawable"/><file name="bg_tag_gray" path="D:\Sipora1\app\src\main\res\drawable\bg_tag_gray.xml" qualifiers="" type="drawable"/><file name="bg_tip_icon" path="D:\Sipora1\app\src\main\res\drawable\bg_tip_icon.xml" qualifiers="" type="drawable"/><file name="bg_white_card" path="D:\Sipora1\app\src\main\res\drawable\bg_white_card.xml" qualifiers="" type="drawable"/><file name="bg_white_rounded" path="D:\Sipora1\app\src\main\res\drawable\bg_white_rounded.xml" qualifiers="" type="drawable"/><file name="dot_active" path="D:\Sipora1\app\src\main\res\drawable\dot_active.xml" qualifiers="" type="drawable"/><file name="dot_inactive" path="D:\Sipora1\app\src\main\res\drawable\dot_inactive.xml" qualifiers="" type="drawable"/><file name="green_pill" path="D:\Sipora1\app\src\main\res\drawable\green_pill.xml" qualifiers="" type="drawable"/><file name="ic_arrow_back" path="D:\Sipora1\app\src\main\res\drawable\ic_arrow_back.xml" qualifiers="" type="drawable"/><file name="ic_arrow_down" path="D:\Sipora1\app\src\main\res\drawable\ic_arrow_down.xml" qualifiers="" type="drawable"/><file name="ic_baseline_description_24" path="D:\Sipora1\app\src\main\res\drawable\ic_baseline_description_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_download_24" path="D:\Sipora1\app\src\main\res\drawable\ic_baseline_download_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_group_24" path="D:\Sipora1\app\src\main\res\drawable\ic_baseline_group_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_notifications_24" path="D:\Sipora1\app\src\main\res\drawable\ic_baseline_notifications_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_upload_24" path="D:\Sipora1\app\src\main\res\drawable\ic_baseline_upload_24.xml" qualifiers="" type="drawable"/><file name="ic_calendar_gray" path="D:\Sipora1\app\src\main\res\drawable\ic_calendar_gray.xml" qualifiers="" type="drawable"/><file name="ic_clock" path="D:\Sipora1\app\src\main\res\drawable\ic_clock.xml" qualifiers="" type="drawable"/><file name="ic_close" path="D:\Sipora1\app\src\main\res\drawable\ic_close.xml" qualifiers="" type="drawable"/><file name="ic_cloud_upload_outline" path="D:\Sipora1\app\src\main\res\drawable\ic_cloud_upload_outline.xml" qualifiers="" type="drawable"/><file name="ic_delete" path="D:\Sipora1\app\src\main\res\drawable\ic_delete.xml" qualifiers="" type="drawable"/><file name="ic_document" path="D:\Sipora1\app\src\main\res\drawable\ic_document.xml" qualifiers="" type="drawable"/><file name="ic_download_gray" path="D:\Sipora1\app\src\main\res\drawable\ic_download_gray.xml" qualifiers="" type="drawable"/><file name="ic_download_outline" path="D:\Sipora1\app\src\main\res\drawable\ic_download_outline.xml" qualifiers="" type="drawable"/><file name="ic_eye" path="D:\Sipora1\app\src\main\res\drawable\ic_eye.xml" qualifiers="" type="drawable"/><file name="ic_eye_gray" path="D:\Sipora1\app\src\main\res\drawable\ic_eye_gray.xml" qualifiers="" type="drawable"/><file name="ic_eye_off" path="D:\Sipora1\app\src\main\res\drawable\ic_eye_off.xml" qualifiers="" type="drawable"/><file name="ic_file_upload" path="D:\Sipora1\app\src\main\res\drawable\ic_file_upload.xml" qualifiers="" type="drawable"/><file name="ic_filter" path="D:\Sipora1\app\src\main\res\drawable\ic_filter.xml" qualifiers="" type="drawable"/><file name="ic_filter_list" path="D:\Sipora1\app\src\main\res\drawable\ic_filter_list.xml" qualifiers="" type="drawable"/><file name="ic_folder_outline" path="D:\Sipora1\app\src\main\res\drawable\ic_folder_outline.xml" qualifiers="" type="drawable"/><file name="ic_google" path="D:\Sipora1\app\src\main\res\drawable\ic_google.xml" qualifiers="" type="drawable"/><file name="ic_grid" path="D:\Sipora1\app\src\main\res\drawable\ic_grid.xml" qualifiers="" type="drawable"/><file name="ic_home_outline" path="D:\Sipora1\app\src\main\res\drawable\ic_home_outline.xml" qualifiers="" type="drawable"/><file name="ic_insert_drive_file" path="D:\Sipora1\app\src\main\res\drawable\ic_insert_drive_file.xml" qualifiers="" type="drawable"/><file name="ic_js" path="D:\Sipora1\app\src\main\res\drawable\ic_js.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="D:\Sipora1\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="D:\Sipora1\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_more" path="D:\Sipora1\app\src\main\res\drawable\ic_more.xml" qualifiers="" type="drawable"/><file name="ic_paper" path="D:\Sipora1\app\src\main\res\drawable\ic_paper.xml" qualifiers="" type="drawable"/><file name="ic_person_gray" path="D:\Sipora1\app\src\main\res\drawable\ic_person_gray.xml" qualifiers="" type="drawable"/><file name="ic_play_circle" path="D:\Sipora1\app\src\main\res\drawable\ic_play_circle.xml" qualifiers="" type="drawable"/><file name="ic_polije" path="D:\Sipora1\app\src\main\res\drawable\ic_polije.png" qualifiers="" type="drawable"/><file name="ic_search_outline" path="D:\Sipora1\app\src\main\res\drawable\ic_search_outline.xml" qualifiers="" type="drawable"/><file name="ic_seo" path="D:\Sipora1\app\src\main\res\drawable\ic_seo.xml" qualifiers="" type="drawable"/><file name="ic_shield_check" path="D:\Sipora1\app\src\main\res\drawable\ic_shield_check.xml" qualifiers="" type="drawable"/><file name="ic_skripsi" path="D:\Sipora1\app\src\main\res\drawable\ic_skripsi.xml" qualifiers="" type="drawable"/><file name="ic_sort" path="D:\Sipora1\app\src\main\res\drawable\ic_sort.xml" qualifiers="" type="drawable"/><file name="ic_swift" path="D:\Sipora1\app\src\main\res\drawable\ic_swift.xml" qualifiers="" type="drawable"/><file name="ic_tag_gray" path="D:\Sipora1\app\src\main\res\drawable\ic_tag_gray.xml" qualifiers="" type="drawable"/><file name="ic_thesis" path="D:\Sipora1\app\src\main\res\drawable\ic_thesis.xml" qualifiers="" type="drawable"/><file name="ic_trend" path="D:\Sipora1\app\src\main\res\drawable\ic_trend.xml" qualifiers="" type="drawable"/><file name="ic_warning" path="D:\Sipora1\app\src\main\res\drawable\ic_warning.xml" qualifiers="" type="drawable"/><file name="progress_drawable" path="D:\Sipora1\app\src\main\res\drawable\progress_drawable.xml" qualifiers="" type="drawable"/><file name="tab_selector" path="D:\Sipora1\app\src\main\res\drawable\tab_selector.xml" qualifiers="" type="drawable"/><file name="activity_browse" path="D:\Sipora1\app\src\main\res\layout\activity_browse.xml" qualifiers="" type="layout"/><file name="activity_dashboard" path="D:\Sipora1\app\src\main\res\layout\activity_dashboard.xml" qualifiers="" type="layout"/><file name="activity_download" path="D:\Sipora1\app\src\main\res\layout\activity_download.xml" qualifiers="" type="layout"/><file name="activity_home" path="D:\Sipora1\app\src\main\res\layout\activity_home.xml" qualifiers="" type="layout"/><file name="activity_login" path="D:\Sipora1\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_opening01" path="D:\Sipora1\app\src\main\res\layout\activity_opening01.xml" qualifiers="" type="layout"/><file name="activity_opening02" path="D:\Sipora1\app\src\main\res\layout\activity_opening02.xml" qualifiers="" type="layout"/><file name="activity_opening03" path="D:\Sipora1\app\src\main\res\layout\activity_opening03.xml" qualifiers="" type="layout"/><file name="activity_opening_main" path="D:\Sipora1\app\src\main\res\layout\activity_opening_main.xml" qualifiers="" type="layout"/><file name="activity_register" path="D:\Sipora1\app\src\main\res\layout\activity_register.xml" qualifiers="" type="layout"/><file name="activity_search" path="D:\Sipora1\app\src\main\res\layout\activity_search.xml" qualifiers="" type="layout"/><file name="activity_upload" path="D:\Sipora1\app\src\main\res\layout\activity_upload.xml" qualifiers="" type="layout"/><file name="activity_webview" path="D:\Sipora1\app\src\main\res\layout\activity_webview.xml" qualifiers="" type="layout"/><file name="card_statistic" path="D:\Sipora1\app\src\main\res\layout\card_statistic.xml" qualifiers="" type="layout"/><file name="dialog_filter" path="D:\Sipora1\app\src\main\res\layout\dialog_filter.xml" qualifiers="" type="layout"/><file name="include_stat_card" path="D:\Sipora1\app\src\main\res\layout\include_stat_card.xml" qualifiers="" type="layout"/><file name="item_dokumen" path="D:\Sipora1\app\src\main\res\layout\item_dokumen.xml" qualifiers="" type="layout"/><file name="item_dokumen_dashboard" path="D:\Sipora1\app\src\main\res\layout\item_dokumen_dashboard.xml" qualifiers="" type="layout"/><file name="item_download" path="D:\Sipora1\app\src\main\res\layout\item_download.xml" qualifiers="" type="layout"/><file name="item_recent" path="D:\Sipora1\app\src\main\res\layout\item_recent.xml" qualifiers="" type="layout"/><file name="item_stat_card" path="D:\Sipora1\app\src\main\res\layout\item_stat_card.xml" qualifiers="" type="layout"/><file name="item_trending" path="D:\Sipora1\app\src\main\res\layout\item_trending.xml" qualifiers="" type="layout"/><file name="spinner_dropdown_item" path="D:\Sipora1\app\src\main\res\layout\spinner_dropdown_item.xml" qualifiers="" type="layout"/><file name="spinner_item" path="D:\Sipora1\app\src\main\res\layout\spinner_item.xml" qualifiers="" type="layout"/><file name="bottom_nav_menu" path="D:\Sipora1\app\src\main\res\menu\bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="D:\Sipora1\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="D:\Sipora1\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="D:\Sipora1\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Sipora1\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Sipora1\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Sipora1\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Sipora1\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Sipora1\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Sipora1\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Sipora1\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Sipora1\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Sipora1\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="D:\Sipora1\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="jenis_dokumen">
+        <item>Pilih Dokumen</item>
+        <item>Artikel</item>
+        <item>Skripsi</item>
+        <item>Tugas Akhir</item>
+        <item>Laporan</item>
+    </string-array><string-array name="jurusan_list">
+        <item>Pilih Jurusan</item>
+        <item>Teknologi Pertanian</item>
+        <item>Peternakan</item>
+        <item>Manajemen Agribisnis</item>
+        <item>Teknik</item>
+        <item>Kesehatan</item>
+        <item>Teknologi Informasi</item>
+        <item>Bahasa, Komunikasi, dan Pariwisata</item>
+    </string-array><string-array name="prodi_list">
+        <item>Pilih Program Studi</item>
+
+        
+        <item>D3 Teknologi Hasil Pertanian</item>
+        <item>D4 Teknologi Industri Pangan</item>
+        <item>D4 Teknologi Rekayasa Pangan</item>
+        <item>D4 Teknologi Rekayasa Bioproses</item>
+
+        
+        <item>D3 Produksi Ternak</item>
+        <item>D3 Kesehatan Hewan</item>
+        <item>D4 Teknologi Pakan Ternak</item>
+        <item>D4 Manajemen Bisnis Unggas</item>
+
+        
+        <item>D3 Agribisnis</item>
+        <item>D4 Manajemen Agroindustri</item>
+        <item>D4 Manajemen Pertanian Berkelanjutan</item>
+
+        
+        <item>D3 Teknik Energi Terbarukan</item>
+        <item>D3 Teknik Mesin Pertanian</item>
+        <item>D4 Teknologi Rekayasa Mekatronika</item>
+
+        
+        <item>D3 Gizi Klinik</item>
+        <item>D3 Keperawatan</item>
+        <item>D3 Kebidanan</item>
+
+        
+        <item>D3 Manajemen Informatika</item>
+        <item>D3 Teknik Komputer</item>
+        <item>D4 Teknik Informatika</item>
+        <item>D4 Teknik Rekayasa Komputer</item>
+
+        
+        <item>D3 Bahasa Inggris</item>
+        <item>D4 Perhotelan</item>
+        <item>D3 Usaha Perjalanan Wisata</item>
+    </string-array><string-array name="tahun_list">
+        <item>Pilih Tahun</item>
+        <item>2025</item>
+        <item>2024</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+    </string-array><string-array name="divisi_list">
+        <item>Pilih Divisi</item>
+        <item>Divisi Akademik</item>
+        <item>Divisi Kemahasiswaan</item>
+        <item>Divisi Keuangan</item>
+        <item>Divisi SDM</item>
+        <item>Divisi Umum</item>
+        <item>Divisi Kerjasama</item>
+        <item>Divisi Sistem Informasi</item>
+    </string-array><string-array name="tema_list">
+        <item>Pilih Tema</item>
+        <item>Pendidikan</item>
+        <item>Teknologi</item>
+        <item>Pertanian</item>
+        <item>Kesehatan</item>
+        <item>Ekonomi</item>
+        <item>Sosial</item>
+        <item>Budaya</item>
+        <item>Lingkungan</item>
+        <item>Hukum</item>
+        <item>Teknik</item>
+        <item>Fisika</item>
+        <item>Kimia</item>
+        <item>Biologi</item>
+        <item>Matematika</item>
+    </string-array></file><file path="D:\Sipora1\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CourseCard">
+        <attr format="string" name="atr_title"/>
+        <attr format="string" name="atr_subtitle"/>
+        <attr format="string" name="atr_files"/>
+        <attr format="string" name="atr_duration"/>
+        <attr format="color" name="atr_bgColor"/>
+        <attr format="reference" name="atr_illustration"/>
+    </declare-styleable></file><file path="D:\Sipora1\app\src\main\res\values\colors.xml" qualifiers=""><color name="cream">#FFF5E4</color><color name="blue">#3F8CFF</color><color name="orange">#FF6B3D</color><color name="yellow">#FFCC4D</color><color name="green">#6DD27C</color><color name="red">#F0625D</color><color name="gray">#808080</color><color name="gray_light">#E0E0E0</color><color name="black">#000000</color><color name="white">#FFFFFF</color><color name="colorPrimary">#42A5F5</color><color name="colorAccent">#2196F3</color><color name="colorGrey">#808080</color><color name="colorLightGrey">#F5F5F5</color><color name="colorPrimaryBlue">#42A5F5</color><color name="primaryColor">#FF5722</color><color name="primaryDark">#E64A19</color><color name="accentColor">#FFC107</color><color name="textPrimary">#212121</color><color name="textSecondary">#757575</color><color name="backgroundColor">#FFFFFF</color><color name="grayLight">#F5F5F5</color><color name="blue_dark">#1565C0</color><color name="red_pdf">#E53935</color><color name="blue_word">#1E88E5</color><color name="green_image">#43A047</color><color name="gray_default">#757575</color><color name="colorSuccess">#00B050</color><color name="colorFailed">#FF3B30</color><color name="colorPrimaryText">#000000</color><color name="colorSecondaryText">#555555</color><color name="colorblue">#0066FF</color><color name="defaultText">#333333</color></file><file path="D:\Sipora1\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Sipora</string><string name="judul_dokumen_label">Judul Dokumen <font color="#FF0000">*</font></string><string name="abstrak_label">Abstrak / Deskripsi <font color="#FF0000">*</font></string><string name="jenis_dokumen_label">Jenis Dokumen <font color="#FF0000">*</font></string><string name="tahun_label">Tahun <font color="#FF0000">*</font></string><string name="jurusan_label">Jurusan <font color="#FF0000">*</font></string><string name="prodi_label">Program Studi <font color="#FF0000">*</font></string><string name="penulis_label">Penulis <font color="#FF0000">*</font></string><string name="label_kata_kunci">Kata Kunci <font color="#FF0000">*</font></string><string name="divisi_label">Divisi <font color="#FF0000">*</font></string><string name="tema_label">Tema <font color="#FF0000">*</font></string><string-array name="prodi_teknologi_pertanian">
+        <item>Pilih Program Studi</item>
+        <item>D3 Teknologi Hasil Pertanian</item>
+        <item>D4 Teknologi Industri Pangan</item>
+        <item>D4 Teknologi Rekayasa Pangan</item>
+        <item>D4 Teknologi Rekayasa Bioproses</item>
+    </string-array><string-array name="prodi_peternakan">
+        <item>Pilih Program Studi</item>
+        <item>D3 Produksi Ternak</item>
+        <item>D3 Kesehatan Hewan</item>
+        <item>D4 Teknologi Pakan Ternak</item>
+        <item>D4 Manajemen Bisnis Unggas</item>
+    </string-array><string-array name="prodi_manajemen_agribisnis">
+        <item>Pilih Program Studi</item>
+        <item>D3 Agribisnis</item>
+        <item>D4 Manajemen Agroindustri</item>
+        <item>D4 Manajemen Pertanian Berkelanjutan</item>
+    </string-array><string-array name="prodi_teknik">
+        <item>Pilih Program Studi</item>
+        <item>D3 Teknik Energi Terbarukan</item>
+        <item>D3 Teknik Mesin Pertanian</item>
+        <item>D4 Teknologi Rekayasa Mekatronika</item>
+    </string-array><string-array name="prodi_kesehatan">
+        <item>Pilih Program Studi</item>
+        <item>D3 Gizi Klinik</item>
+        <item>D3 Keperawatan</item>
+        <item>D3 Kebidanan</item>
+    </string-array><string-array name="prodi_teknologi_informasi">
+        <item>Pilih Program Studi</item>
+        <item>D3 Manajemen Informatika</item>
+        <item>D3 Teknik Komputer</item>
+        <item>D4 Teknik Informatika</item>
+        <item>D4 Teknik Rekayasa Komputer</item>
+    </string-array><string-array name="prodi_bkp">
+        <item>Pilih Program Studi</item>
+        <item>D3 Bahasa Inggris</item>
+        <item>D4 Perhotelan</item>
+        <item>D3 Usaha Perjalanan Wisata</item>
+    </string-array><string-array name="role_array">
+        <item>Mahasiswa</item>
+    </string-array></file><file path="D:\Sipora1\app\src\main\res\values\styles.xml" qualifiers=""><style name="CustomProgressBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_drawable</item>
+        <item name="android:minHeight">6dp</item>
+        <item name="android:maxHeight">6dp</item>
+    </style><style name="FilterYearChip">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:background">@drawable/bg_chip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#444444</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">14dp</item>
+        <item name="android:paddingRight">14dp</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style><style name="FilterFieldChip">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_filter_button_gray</item>
+        <item name="android:textColor">#333</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style></file><file path="D:\Sipora1\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.Sipora" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorButtonNormal">@android:color/transparent</item>
+        <item name="colorControlHighlight">@android:color/transparent</item>
+
+    </style><style name="Theme.Sipora" parent="Base.Theme.Sipora"/></file><file path="D:\Sipora1\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.Sipora" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file name="backup_rules" path="D:\Sipora1\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="D:\Sipora1\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="network_security_config" path="D:\Sipora1\app\src\main\res\xml\network_security_config.xml" qualifiers="" type="xml"/><file name="bg_bottomsheet" path="D:\Sipora1\app\src\main\res\drawable\bg_bottomsheet.xml" qualifiers="" type="drawable"/><file name="bg_tema_badge" path="D:\Sipora1\app\src\main\res\drawable\bg_tema_badge.xml" qualifiers="" type="drawable"/><file name="ic_list" path="D:\Sipora1\app\src\main\res\drawable\ic_list.xml" qualifiers="" type="drawable"/><file name="bottom_sheet_filter" path="D:\Sipora1\app\src\main\res\layout\bottom_sheet_filter.xml" qualifiers="" type="layout"/><file name="bottom_sheet_sort" path="D:\Sipora1\app\src\main\res\layout\bottom_sheet_sort.xml" qualifiers="" type="layout"/><file name="item_dokumen_grid" path="D:\Sipora1\app\src\main\res\layout\item_dokumen_grid.xml" qualifiers="" type="layout"/><file name="dialog_forgot_password" path="D:\Sipora1\app\src\main\res\layout\dialog_forgot_password.xml" qualifiers="" type="layout"/><file name="tab_active" path="D:\Sipora1\app\src\main\res\drawable\tab_active.xml" qualifiers="" type="drawable"/><file name="tab_inactive" path="D:\Sipora1\app\src\main\res\drawable\tab_inactive.xml" qualifiers="" type="drawable"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Sipora1\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Sipora1\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Sipora1\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Sipora1\app\build\generated\res\resValues\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CourseCard">
+        <attr format="string" name="atr_title"/>
+        <attr format="string" name="atr_subtitle"/>
+        <attr format="string" name="atr_files"/>
+        <attr format="string" name="atr_duration"/>
+        <attr format="color" name="atr_bgColor"/>
+        <attr format="reference" name="atr_illustration"/>
+    </declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_opening02.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_opening02.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_dokumen_grid.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_dokumen_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_recent.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_browse.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_dokumen_dashboard.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_dokumen_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_dokumen.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_dokumen.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\include_stat_card.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\include_stat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\bottom_sheet_sort.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\bottom_sheet_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_opening03.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_opening03.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_trending.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_trending.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\card_statistic.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\card_statistic.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\spinner_dropdown_item.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\bottom_sheet_filter.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\bottom_sheet_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_stat_card.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_stat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_opening01.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_opening01.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\dialog_filter.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\dialog_filter.xml"
+    },
+    {
+        "merged": "com.example.sipora.app-mergeDebugResources-33:/layout/item_download.xml",
+        "source": "com.example.sipora.app-main-36:/layout/item_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_opening_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_opening_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_download.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\activity_upload.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\dialog_forgot_password.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\dialog_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-mergeDebugResources-33:\\layout\\item_download.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.sipora.app-main-36:\\layout\\item_download.xml"
+    }
+]

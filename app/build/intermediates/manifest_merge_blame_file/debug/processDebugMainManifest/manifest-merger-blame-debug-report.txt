@@ -1,0 +1,230 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sipora"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="36" />
+10
+11    <!-- Internet access -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Sipora1\app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\Sipora1\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <!-- Optional storage permission -->
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\Sipora1\app\src\main\AndroidManifest.xml:9:5-11:40
+15-->D:\Sipora1\app\src\main\AndroidManifest.xml:10:9-65
+16
+17    <permission
+17-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\25d2a57d872a7f1da640ce950a40d91b\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.example.sipora.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\25d2a57d872a7f1da640ce950a40d91b\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\25d2a57d872a7f1da640ce950a40d91b\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.example.sipora.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\25d2a57d872a7f1da640ce950a40d91b\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\25d2a57d872a7f1da640ce950a40d91b\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->D:\Sipora1\app\src\main\AndroidManifest.xml:13:5-63:19
+24        android:allowBackup="true"
+24-->D:\Sipora1\app\src\main\AndroidManifest.xml:14:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\25d2a57d872a7f1da640ce950a40d91b\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->D:\Sipora1\app\src\main\AndroidManifest.xml:15:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->D:\Sipora1\app\src\main\AndroidManifest.xml:16:9-54
+30        android:icon="@drawable/ic_polije"
+30-->D:\Sipora1\app\src\main\AndroidManifest.xml:17:9-43
+31        android:label="@string/app_name"
+31-->D:\Sipora1\app\src\main\AndroidManifest.xml:18:9-41
+32        android:networkSecurityConfig="@xml/network_security_config"
+32-->D:\Sipora1\app\src\main\AndroidManifest.xml:23:9-69
+33        android:roundIcon="@drawable/ic_polije"
+33-->D:\Sipora1\app\src\main\AndroidManifest.xml:19:9-48
+34        android:supportsRtl="true"
+34-->D:\Sipora1\app\src\main\AndroidManifest.xml:20:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.Sipora"
+36-->D:\Sipora1\app\src\main\AndroidManifest.xml:21:9-44
+37        android:usesCleartextTraffic="true" >
+37-->D:\Sipora1\app\src\main\AndroidManifest.xml:22:9-44
+38
+39        <!-- Launcher -->
+40        <activity
+40-->D:\Sipora1\app\src\main\AndroidManifest.xml:27:9-34:20
+41            android:name="com.example.sipora.rizalmhs.Register.OpeningActivity"
+41-->D:\Sipora1\app\src\main\AndroidManifest.xml:28:13-62
+42            android:exported="true" >
+42-->D:\Sipora1\app\src\main\AndroidManifest.xml:29:13-36
+43            <intent-filter>
+43-->D:\Sipora1\app\src\main\AndroidManifest.xml:30:13-33:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\Sipora1\app\src\main\AndroidManifest.xml:31:17-69
+44-->D:\Sipora1\app\src\main\AndroidManifest.xml:31:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\Sipora1\app\src\main\AndroidManifest.xml:32:17-77
+46-->D:\Sipora1\app\src\main\AndroidManifest.xml:32:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <!-- Auth -->
+51        <activity
+51-->D:\Sipora1\app\src\main\AndroidManifest.xml:37:9-96
+52            android:name="com.example.sipora.rizalmhs.Register.RegisterActivity"
+52-->D:\Sipora1\app\src\main\AndroidManifest.xml:37:19-69
+53            android:exported="true" />
+53-->D:\Sipora1\app\src\main\AndroidManifest.xml:37:70-93
+54        <activity
+54-->D:\Sipora1\app\src\main\AndroidManifest.xml:38:9-93
+55            android:name="com.example.sipora.rizalmhs.Register.LoginActivity"
+55-->D:\Sipora1\app\src\main\AndroidManifest.xml:38:19-66
+56            android:exported="true" />
+56-->D:\Sipora1\app\src\main\AndroidManifest.xml:38:67-90
+57
+58        <!-- Main features -->
+59        <activity
+59-->D:\Sipora1\app\src\main\AndroidManifest.xml:41:9-92
+60            android:name="com.example.sipora.rizalmhs.Register.HomeActivity"
+60-->D:\Sipora1\app\src\main\AndroidManifest.xml:41:19-65
+61            android:exported="true" />
+61-->D:\Sipora1\app\src\main\AndroidManifest.xml:41:66-89
+62        <activity
+62-->D:\Sipora1\app\src\main\AndroidManifest.xml:42:9-97
+63            android:name="com.example.sipora.rizalmhs.Register.DashboardActivity"
+63-->D:\Sipora1\app\src\main\AndroidManifest.xml:42:19-70
+64            android:exported="true" />
+64-->D:\Sipora1\app\src\main\AndroidManifest.xml:42:71-94
+65        <activity
+65-->D:\Sipora1\app\src\main\AndroidManifest.xml:43:9-94
+66            android:name="com.example.sipora.rizalmhs.Register.UploadActivity"
+66-->D:\Sipora1\app\src\main\AndroidManifest.xml:43:19-67
+67            android:exported="true" />
+67-->D:\Sipora1\app\src\main\AndroidManifest.xml:43:68-91
+68        <activity
+68-->D:\Sipora1\app\src\main\AndroidManifest.xml:44:9-94
+69            android:name="com.example.sipora.rizalmhs.Register.SearchActivity"
+69-->D:\Sipora1\app\src\main\AndroidManifest.xml:44:19-67
+70            android:exported="true" />
+70-->D:\Sipora1\app\src\main\AndroidManifest.xml:44:68-91
+71        <activity
+71-->D:\Sipora1\app\src\main\AndroidManifest.xml:45:9-96
+72            android:name="com.example.sipora.rizalmhs.Register.DownloadActivity"
+72-->D:\Sipora1\app\src\main\AndroidManifest.xml:45:19-69
+73            android:exported="true" />
+73-->D:\Sipora1\app\src\main\AndroidManifest.xml:45:70-93
+74        <activity
+74-->D:\Sipora1\app\src\main\AndroidManifest.xml:47:9-50:46
+75            android:name="com.example.sipora.rizalmhs.Register.BrowseActivity"
+75-->D:\Sipora1\app\src\main\AndroidManifest.xml:48:13-61
+76            android:exported="true"
+76-->D:\Sipora1\app\src\main\AndroidManifest.xml:49:13-36
+77            android:label="Browse Dokumen" />
+77-->D:\Sipora1\app\src\main\AndroidManifest.xml:50:13-43
+78
+79        <!-- NEW: WebView Preview Activity -->
+80        <activity
+80-->D:\Sipora1\app\src\main\AndroidManifest.xml:53:9-56:47
+81            android:name="com.example.sipora.rizalmhs.Register.WebViewActivity"
+81-->D:\Sipora1\app\src\main\AndroidManifest.xml:54:13-62
+82            android:exported="true"
+82-->D:\Sipora1\app\src\main\AndroidManifest.xml:55:13-36
+83            android:label="Preview Dokumen" />
+83-->D:\Sipora1\app\src\main\AndroidManifest.xml:56:13-44
+84
+85        <!-- Onboarding -->
+86        <activity
+86-->D:\Sipora1\app\src\main\AndroidManifest.xml:59:9-98
+87            android:name="com.example.sipora.rizalmhs.Register.Opening01Activity"
+87-->D:\Sipora1\app\src\main\AndroidManifest.xml:59:19-70
+88            android:exported="false" />
+88-->D:\Sipora1\app\src\main\AndroidManifest.xml:59:71-95
+89        <activity
+89-->D:\Sipora1\app\src\main\AndroidManifest.xml:60:9-98
+90            android:name="com.example.sipora.rizalmhs.Register.Opening02Activity"
+90-->D:\Sipora1\app\src\main\AndroidManifest.xml:60:19-70
+91            android:exported="false" />
+91-->D:\Sipora1\app\src\main\AndroidManifest.xml:60:71-95
+92        <activity
+92-->D:\Sipora1\app\src\main\AndroidManifest.xml:61:9-98
+93            android:name="com.example.sipora.rizalmhs.Register.Opening03Activity"
+93-->D:\Sipora1\app\src\main\AndroidManifest.xml:61:19-70
+94            android:exported="false" />
+94-->D:\Sipora1\app\src\main\AndroidManifest.xml:61:71-95
+95
+96        <provider
+96-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+97            android:name="androidx.startup.InitializationProvider"
+97-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+98            android:authorities="com.example.sipora.androidx-startup"
+98-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+99            android:exported="false" >
+99-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+100            <meta-data
+100-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+101-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+102                android:value="androidx.startup" />
+102-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\eea06e3f11327653673cfb076061f644\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+103            <meta-data
+103-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LENOVO\.gradle\caches\8.13\transforms\9824b1b181bb0849dfa4157d7644cdfc\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+104                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+104-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LENOVO\.gradle\caches\8.13\transforms\9824b1b181bb0849dfa4157d7644cdfc\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+105                android:value="androidx.startup" />
+105-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LENOVO\.gradle\caches\8.13\transforms\9824b1b181bb0849dfa4157d7644cdfc\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+106            <meta-data
+106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+107                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+107-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+108                android:value="androidx.startup" />
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+109        </provider>
+110
+111        <receiver
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+112            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+113            android:directBootAware="false"
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+114            android:enabled="true"
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+115            android:exported="true"
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+116            android:permission="android.permission.DUMP" >
+116-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+117            <intent-filter>
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+118                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+119            </intent-filter>
+120            <intent-filter>
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+121                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+122            </intent-filter>
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+124                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+125            </intent-filter>
+126            <intent-filter>
+126-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+127                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+127-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+127-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LENOVO\.gradle\caches\8.13\transforms\ac9474413129dff2fc04668b3611dc99\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+128            </intent-filter>
+129        </receiver>
+130    </application>
+131
+132</manifest>
